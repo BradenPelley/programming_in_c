@@ -1,0 +1,1 @@
+This assignment is to show hotel bookings for 10 floors with 7 rooms on each floor. Every room shows as vacant, except for one room. Floor 6 Room 7 is booked, which shows nested loops and correct room status logic.
